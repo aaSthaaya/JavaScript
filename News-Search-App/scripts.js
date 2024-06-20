@@ -1,6 +1,2 @@
-console.log("Bye");
-console.log("Inbetween");
-console.log("Hii");
-console.log("change");
-console.log("newchange");
-console.log("newchange");
+console.log("I am on my way to become a new me.")
+
